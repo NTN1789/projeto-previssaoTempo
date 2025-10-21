@@ -1,0 +1,24 @@
+
+body {
+  transition: background 0.8s ease-in-out;
+}
+
+.bg-sunny {
+  background: linear-gradient(180deg, #87CEFA 0%, #fff 100%);
+}
+
+.bg-cloudy {
+  background: linear-gradient(180deg, #b0c4de 0%, #f0f8ff 100%);
+}
+
+.bg-rainy {
+  background: linear-gradient(180deg, #5f9ea0 0%, #cfd8dc 100%);
+}
+
+.bg-snowy {
+  background: linear-gradient(180deg, #e0f7fa 0%, #ffffff 100%);
+}
+
+.bg-default {
+  background: linear-gradient(180deg, #dfe9f3 0%, #ffffff 100%);
+}
